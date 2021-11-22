@@ -1,0 +1,2 @@
+# Python_e_Cubo_Magico
+Embaralhamento_Cubo_Magico
